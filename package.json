@@ -1,20 +1,23 @@
 {
-  "name": "finanzas-claras-ultra",
+  "name": "finanzas-claras-pro-premium",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
-    "build": "node --enable-source-maps ./node_modules/vite/bin/vite.js build",
+    "build": "vite build",
     "preview": "vite preview",
     "generate": "node scripts/generate.js",
-    "generate-daily": "node scripts/generate-daily.js"
+    "sitemap": "node scripts/sitemap.js"
   },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.12.1"
+    "react-router-dom": "^6.12.1",
+    "slugify": "^1.6.6",
+    "framer-motion": "^10.12.16"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.2",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.24",
     "tailwindcss": "^3.4.8",

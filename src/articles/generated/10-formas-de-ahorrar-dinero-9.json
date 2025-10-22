@@ -1,28 +1,33 @@
 {
-  "title": "10 formas de ahorrar dinero (9)",
-  "description": "Consejos prácticos para ahorrar dinero fácilmente",
+  "title": {
+    "es": "10 formas de ahorrar dinero \u2014 Parte 9",
+    "en": "10 ways to save money \u2014 Part 9"
+  },
+  "description": {
+    "es": "Consejos pr\u00e1cticos para ahorrar f\u00e1cilmente",
+    "en": "Practical tips to save money easily"
+  },
   "content": [
-    "1. Haz un presupuesto mensual",
-    "2. Reduce gastos innecesarios",
-    "3. Compra productos en oferta",
-    "4. Evita deudas de alto interés",
-    "5. Automatiza tus ahorros"
+    {
+      "es": "Haz un presupuesto.",
+      "en": "Make a budget."
+    },
+    {
+      "es": "Reduce gastos.",
+      "en": "Reduce expenses."
+    }
   ],
   "keywords": [
-    "ahorrar dinero",
-    "finanzas personales"
+    "ahorro",
+    "finanzas"
   ],
+  "date": "2025-10-01T00:00:00.000Z",
   "slug": "10-formas-de-ahorrar-dinero-9",
+  "lang": "es",
   "affiliates": [
-    "#af1",
-    "#af2"
+    "https://example.com/af1"
   ],
   "products": [
-    "Plantilla PDF",
-    "Curso breve"
-  ],
-  "meta": {
-    "description": "Artículo sobre 10 formas de ahorrar dinero"
-  },
-  "adsense": true
+    "Plantilla presupuesto PDF"
+  ]
 }

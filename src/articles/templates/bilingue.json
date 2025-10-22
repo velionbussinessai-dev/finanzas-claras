@@ -1,0 +1,43 @@
+{
+  "title": {
+    "es": "10 formas de ahorrar dinero",
+    "en": "10 ways to save money"
+  },
+  "description": {
+    "es": "Consejos pr\u00e1cticos para ahorrar f\u00e1cilmente",
+    "en": "Practical tips to save money easily"
+  },
+  "content": [
+    {
+      "es": "Haz un presupuesto y c\u00famplelo.",
+      "en": "Make and follow a budget."
+    },
+    {
+      "es": "Reduce gastos innecesarios.",
+      "en": "Cut unnecessary expenses."
+    },
+    {
+      "es": "Compra con lista y compara precios.",
+      "en": "Shop with a list and compare prices."
+    },
+    {
+      "es": "Automatiza tus ahorros.",
+      "en": "Automate your savings."
+    },
+    {
+      "es": "Revisa tus suscripciones mensualmente.",
+      "en": "Review subscriptions monthly."
+    }
+  ],
+  "keywords": [
+    "ahorro",
+    "finanzas",
+    "saving"
+  ],
+  "affiliates": [
+    "https://example.com/af1"
+  ],
+  "products": [
+    "Plantilla presupuesto PDF"
+  ]
+}
